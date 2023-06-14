@@ -1,1 +1,2 @@
-# Julieta-Belen-Gimenez
+Mi nombre es Julieta Gimenez, en camino a ser Full Stack Web Developer, un camino que hace años quise seguir y logre cumplir ese objetivo. Cuento con conocimientos en JavaScript, React, Redux, NodeJs, HTML5, CSS, diseño UX/UI, Figma, ExpressJS, promises, Frameworks, typescript, metodologias agiles(SCRUM), GIT, Slack, postgreSQL, sequelize.
+Mi objetivo es lograr tener mi primera experiencia laboral y poder cumplir mi aspiracion de trabajar en lo que mas me gusta.
